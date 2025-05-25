@@ -1,5 +1,3 @@
-# Developer-competency-assessment-
-
 # 🔍 Tổng Quan Các Phương Pháp Thiết Kế Phần Mềm
 
 ## 1. Object-Oriented Design (OOD)
